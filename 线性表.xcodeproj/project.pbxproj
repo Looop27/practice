@@ -93,6 +93,9 @@
 		A69F62A7205004D300CFC27B /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				KnownAssetTags = (
+					New,
+				);
 				LastUpgradeCheck = 0920;
 				ORGANIZATIONNAME = "iris LIU";
 				TargetAttributes = {
